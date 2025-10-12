@@ -1,54 +1,97 @@
-<header>
+# Quiz Rush - Unity 2022 LTS
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Quiz Rush é um jogo mobile de perguntas rápidas criado em Unity 2022 LTS com suporte a Android, monetização via Google Mobile Ads (AdMob) e dataset local de ~200 perguntas PT-BR/PT-PT. O projeto está organizado para sessões curtas de 10 questões com temporizador de 10 segundos, pontuação com streak, leaderboard local, anúncios banner/interstitial/rewarded e testes automatizados.
 
-# GitHub Pages
+## Estrutura principal
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+```
+Assets/
+  Resources/
+    AdConfig.asset            # Configuração padrão dos anúncios (IDs placeholder)
+    Prefabs/                  # Prefabs gerados em runtime (Menu, Quiz, Resultado)
+    questions.json            # Dataset de perguntas (~200 entradas)
+  Scenes/
+    Boot.unity                # Cena de arranque (carrega Main)
+    Main.unity                # Cena principal, restante conteúdo é instanciado em runtime
+  Scripts/
+    Ads/                      # Serviços AdMob (Banner, Interstitial, Rewarded, Config, Inicialização)
+    Services/                 # Persistência, Analytics e suporte geral
+    UI/                       # Controlos de UI (MenuUI, QuizUI, ResultUI)
+    GameManager.cs            # Máquina de estados principal
+    QuizController.cs         # Lógica das rondas, timer e recompensa
+    RuntimeBootstrapper.cs    # Garante que sistemas essenciais existem mesmo em cenas vazias
+    ...
+  Tests/
+    EditMode/ScoreSystemTests.cs
+    PlayMode/QuestionRepositoryTests.cs
+```
 
-</header>
+## Como integrar o Google Mobile Ads Unity Plugin
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+1. **Instalar o SDK**
+   - Baixe o [Google Mobile Ads Unity plugin](https://developers.google.com/admob/unity/quick-start#download_the_google_mobile_ads_sdk) compatível com Unity 2022 LTS.
+   - Importe o `.unitypackage` no projeto (`Assets > Import Package > Custom Package`).
+   - Verifique se a pasta `GoogleMobileAds/` foi adicionada e se a definição de scripting `GOOGLE_MOBILE_ADS` está ativa (Unity adiciona automaticamente, caso contrário adicione em `Project Settings > Player > Scripting Define Symbols`).
 
-## Step 1: Enable GitHub Pages
+2. **Atualizar os IDs de anúncios**
+   - Abra o asset `Assets/Resources/AdConfig.asset` e substitua os valores placeholder pelos IDs reais fornecidos pela AdMob:
+     ```
+     BANNER_AD_UNIT_ID = "ca-app-pub-xxx/banner"
+     INTERSTITIAL_AD_UNIT_ID = "ca-app-pub-xxx/interstitial"
+     REWARDED_AD_UNIT_ID = "ca-app-pub-xxx/rewarded"
+     ```
+   - Se preferir, utilize a janela `Tools/Quiz Rush/AdMob Ids` (Editor) para editar os IDs e toggles de forma visual.
+   - Em tempo de execução os serviços carregam esse asset automaticamente via `Resources.Load`.
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+3. **Conferir o AdMobInitializer**
+   - `RuntimeBootstrapper` cria um GameObject com `AdMobInitializer` na cena Boot. Este script chama `MobileAds.Initialize` e respeita as flags configuradas em `AdConfig`.
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+## Fluxo das cenas e anúncios
 
-### :keyboard: Activity: Enable GitHub Pages
+- **Boot**: cena minimalista que, ao carregar, instância `BootLoader` + `AdMobInitializer` e muda para `Main` após um pequeno splash.
+- **Main**: `RuntimeBootstrapper` cria `GameSystems`, adicionando `GameManager`, `QuestionRepository`, serviços de anúncios e analítica. O `GameManager` gera dinamicamente um Canvas responsivo e instancia os prefabs de UI.
+- **Anúncios**:
+  - **Banner**: carregado apenas no Menu/Hub (`AdBannerService.Show()` quando o menu está ativo).
+  - **Interstitial**: exibido a cada duas rondas concluídas, com intervalo mínimo de 120 segundos entre impressões (`AdInterstitialService`).
+  - **Rewarded**: oferecido uma vez por ronda ao falhar/terminar o tempo (`AdRewardedService.ShowForExtraLife`).
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+## Build Android (APK/AAB)
 
-<footer>
+1. Abra o projeto no Unity 2022 LTS.
+2. Configure o Android SDK/NDK na primeira abertura se necessário (`Unity Hub > Installs > Add Modules`).
+3. Ajuste as Player Settings:
+   - `File > Build Settings > Android > Switch Platform`.
+   - Em `Player Settings`, defina o package name (e.g., `com.seuprojeto.quizrush`), versão, ícones e ativações desejadas.
+4. Em `Build Settings`, escolha `Build` (APK) ou `Build and Run`. Para AAB utilize `Build > Google Android Project` ou o fluxo `Build App Bundle` do Unity.
+5. O jogo utiliza `Resources.Load` e geração dinâmica de UI; não são necessários ajustes adicionais para cenas.
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+## Boas práticas de anúncios (AdMob)
 
----
+- **Banner**: nunca exibido durante o gameplay, apenas no menu principal.
+- **Interstitial**: respeita frequência mínima de 2 rondas e intervalo de 120 segundos.
+- **Rewarded**: opcional, somente quando o jogador falha uma pergunta e deseja ganhar +1 vida (máximo 1 por ronda).
+- **Fallback seguro**: se algum anúncio falhar ao carregar, o jogo continua normalmente.
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## Highscore, streak e dataset
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+- `questions.json` contém 204 entradas distribuídas igualmente entre as categorias Cultura Geral, Geografia, Cinema, Desporto, Ciência e Emoji-quiz. Cada pergunta possui 4 opções, índice correto e dificuldade de 1 a 5.
+- `QuestionRepository` evita repetir perguntas dentro da mesma ronda até esgotar o pool.
+- `ScoreSystem` calcula `score = 100 * multiplier + timeBonus`, com multiplicador crescendo +0.2 por acerto consecutivo.
+- `PersistenceService` usa `PlayerPrefs` para armazenar top 10 geral, melhor pontuação por categoria, preferências de som e vibração.
 
-</footer>
+## Testes automatizados
+
+- **EditMode**: `ScoreSystemTests` valida o comportamento de streak/multiplicador.
+- **PlayMode**: `QuestionRepositoryTests` garante que não há repetição dentro da mesma ronda antes de esgotar o conjunto.
+- Execute a partir do Unity Test Runner (`Window > General > Test Runner`).
+
+## Extensões e integração futura
+
+- `AnalyticsHook` regista eventos (`session_start`, `round_start`, `round_end`, `ad_*`) e mantém fila curta de logs; pode ser adaptado para Firebase/Analytics externos.
+- `AdConfig` inclui toggles para ativar/desativar anúncios no editor sem alterar código.
+- `RuntimeBootstrapper` e `GameManager` foram desenhados para facilitar testes em Editor sem depender de cena pré-configurada.
+
+## Créditos e licença
+
+- Projeto preparado para servir como base de monetização rápida em jogos trivia.
+- Licenciado sob [MIT License](LICENSE).
