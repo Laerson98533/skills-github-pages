@@ -1,0 +1,2452 @@
+{
+  "questions": [
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal?",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 1)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 2)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 3)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 4)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 5)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 6)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 7)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 8)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 9)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 10)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 11)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 12)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 13)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 14)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Quem pintou a Mona Lisa?",
+      "options": [
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Michelangelo"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Quem pintou a Mona Lisa? (variante 1)",
+      "options": [
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Michelangelo"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Quem pintou a Mona Lisa? (variante 2)",
+      "options": [
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Michelangelo"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Quem pintou a Mona Lisa? (variante 3)",
+      "options": [
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Michelangelo"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Quem pintou a Mona Lisa? (variante 4)",
+      "options": [
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Michelangelo"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 1)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 1) (variante 2)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 2) (variante 3)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 3) (variante 4)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 4) (variante 5)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 5) (variante 6)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 6) (variante 7)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 7) (variante 8)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 8) (variante 9)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 9) (variante 10)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 10) (variante 11)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 11) (variante 12)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 12) (variante 13)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Cultura Geral",
+      "text": "Qual é a capital de Portugal? (variante 13) (variante 14)",
+      "options": [
+        "Lisboa",
+        "Porto",
+        "Coimbra",
+        "Faro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo?",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 1)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 2)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 3)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 4)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 5)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 6)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 7)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 8)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 9)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 10)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 11)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 12)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 13)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 14)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Geografia",
+      "text": "Em que país fica a Torre Eiffel?",
+      "options": [
+        "Itália",
+        "França",
+        "Espanha",
+        "Alemanha"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "category": "Geografia",
+      "text": "Em que país fica a Torre Eiffel? (variante 1)",
+      "options": [
+        "Itália",
+        "França",
+        "Espanha",
+        "Alemanha"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "category": "Geografia",
+      "text": "Em que país fica a Torre Eiffel? (variante 2)",
+      "options": [
+        "Itália",
+        "França",
+        "Espanha",
+        "Alemanha"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "category": "Geografia",
+      "text": "Em que país fica a Torre Eiffel? (variante 3)",
+      "options": [
+        "Itália",
+        "França",
+        "Espanha",
+        "Alemanha"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Geografia",
+      "text": "Em que país fica a Torre Eiffel? (variante 4)",
+      "options": [
+        "Itália",
+        "França",
+        "Espanha",
+        "Alemanha"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 1)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 1) (variante 2)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 2) (variante 3)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 3) (variante 4)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 4) (variante 5)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 5) (variante 6)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 6) (variante 7)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 7) (variante 8)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 8) (variante 9)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 9) (variante 10)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 10) (variante 11)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 11) (variante 12)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 12) (variante 13)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Geografia",
+      "text": "Qual o rio mais longo do mundo? (variante 13) (variante 14)",
+      "options": [
+        "Nilo",
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'?",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 1)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 2)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 3)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 4)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 5)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 6)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 7)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 8)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 9)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 10)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 11)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 12)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 13)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 14)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Cinema",
+      "text": "Qual filme ganhou o Óscar de Melhor Filme em 2020?",
+      "options": [
+        "Parasita",
+        "1917",
+        "Joker",
+        "Ford vs Ferrari"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Cinema",
+      "text": "Qual filme ganhou o Óscar de Melhor Filme em 2020? (variante 1)",
+      "options": [
+        "Parasita",
+        "1917",
+        "Joker",
+        "Ford vs Ferrari"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Cinema",
+      "text": "Qual filme ganhou o Óscar de Melhor Filme em 2020? (variante 2)",
+      "options": [
+        "Parasita",
+        "1917",
+        "Joker",
+        "Ford vs Ferrari"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Cinema",
+      "text": "Qual filme ganhou o Óscar de Melhor Filme em 2020? (variante 3)",
+      "options": [
+        "Parasita",
+        "1917",
+        "Joker",
+        "Ford vs Ferrari"
+      ],
+      "correctIndex": 0,
+      "difficulty": 5
+    },
+    {
+      "category": "Cinema",
+      "text": "Qual filme ganhou o Óscar de Melhor Filme em 2020? (variante 4)",
+      "options": [
+        "Parasita",
+        "1917",
+        "Joker",
+        "Ford vs Ferrari"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 1)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 1) (variante 2)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 2) (variante 3)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 3) (variante 4)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 4) (variante 5)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 5) (variante 6)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 6) (variante 7)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 7) (variante 8)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 8) (variante 9)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 9) (variante 10)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 10) (variante 11)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 11) (variante 12)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 5
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 12) (variante 13)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Cinema",
+      "text": "Quem dirigiu 'Titanic'? (variante 13) (variante 14)",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 1)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 2)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 3)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 4)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 5)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 6)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 7)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 8)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 9)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 10)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 11)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 12)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 13)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 14)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "category": "Desporto",
+      "text": "Quem é conhecido como 'Rei do Futebol'?",
+      "options": [
+        "Pelé",
+        "Maradona",
+        "Cristiano Ronaldo",
+        "Ronaldinho"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Desporto",
+      "text": "Quem é conhecido como 'Rei do Futebol'? (variante 1)",
+      "options": [
+        "Pelé",
+        "Maradona",
+        "Cristiano Ronaldo",
+        "Ronaldinho"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Desporto",
+      "text": "Quem é conhecido como 'Rei do Futebol'? (variante 2)",
+      "options": [
+        "Pelé",
+        "Maradona",
+        "Cristiano Ronaldo",
+        "Ronaldinho"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Desporto",
+      "text": "Quem é conhecido como 'Rei do Futebol'? (variante 3)",
+      "options": [
+        "Pelé",
+        "Maradona",
+        "Cristiano Ronaldo",
+        "Ronaldinho"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Desporto",
+      "text": "Quem é conhecido como 'Rei do Futebol'? (variante 4)",
+      "options": [
+        "Pelé",
+        "Maradona",
+        "Cristiano Ronaldo",
+        "Ronaldinho"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 1)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 1) (variante 2)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 2) (variante 3)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 4
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 3) (variante 4)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 4) (variante 5)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 5) (variante 6)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 4
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 6) (variante 7)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 7) (variante 8)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 8) (variante 9)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 4
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 9) (variante 10)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 10) (variante 11)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 11) (variante 12)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 4
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 12) (variante 13)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "category": "Desporto",
+      "text": "Quantos jogadores tem uma equipa de futebol em campo? (variante 13) (variante 14)",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água?",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 1)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 2)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 3)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 4)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 5)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 6)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 7)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 8)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 9)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 10)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 11)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 12)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 13)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 14)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Quem desenvolveu a teoria da relatividade?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileu Galilei",
+        "Niels Bohr"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Quem desenvolveu a teoria da relatividade? (variante 1)",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileu Galilei",
+        "Niels Bohr"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Quem desenvolveu a teoria da relatividade? (variante 2)",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileu Galilei",
+        "Niels Bohr"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "category": "Ciência",
+      "text": "Quem desenvolveu a teoria da relatividade? (variante 3)",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileu Galilei",
+        "Niels Bohr"
+      ],
+      "correctIndex": 1,
+      "difficulty": 4
+    },
+    {
+      "category": "Ciência",
+      "text": "Quem desenvolveu a teoria da relatividade? (variante 4)",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileu Galilei",
+        "Niels Bohr"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 1)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 1) (variante 2)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 2) (variante 3)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 3) (variante 4)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 4) (variante 5)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 5) (variante 6)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 6) (variante 7)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 7) (variante 8)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 8) (variante 9)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 9) (variante 10)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 10) (variante 11)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 11) (variante 12)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 12) (variante 13)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Ciência",
+      "text": "Qual a fórmula da água? (variante 13) (variante 14)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍?",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 1)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 2)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 3)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 4)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 5)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 6)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 7)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 8)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 9)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 10)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 11)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 12)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 13)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 14)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "O que significam os emojis 🍞🥛🐄?",
+      "options": [
+        "Fazer queijo",
+        "Tomar café",
+        "Café da manhã",
+        "Leite com pão"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "O que significam os emojis 🍞🥛🐄? (variante 1)",
+      "options": [
+        "Fazer queijo",
+        "Tomar café",
+        "Café da manhã",
+        "Leite com pão"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "O que significam os emojis 🍞🥛🐄? (variante 2)",
+      "options": [
+        "Fazer queijo",
+        "Tomar café",
+        "Café da manhã",
+        "Leite com pão"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "O que significam os emojis 🍞🥛🐄? (variante 3)",
+      "options": [
+        "Fazer queijo",
+        "Tomar café",
+        "Café da manhã",
+        "Leite com pão"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "O que significam os emojis 🍞🥛🐄? (variante 4)",
+      "options": [
+        "Fazer queijo",
+        "Tomar café",
+        "Café da manhã",
+        "Leite com pão"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 1)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 1) (variante 2)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 2) (variante 3)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 3) (variante 4)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 4) (variante 5)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 5) (variante 6)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 6) (variante 7)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 7) (variante 8)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 8) (variante 9)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 9) (variante 10)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 10) (variante 11)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 11) (variante 12)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 4
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 12) (variante 13)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "category": "Emoji-quiz",
+      "text": "Qual filme é representado pelos emojis 🎬🐟🔍? (variante 13) (variante 14)",
+      "options": [
+        "Finding Nemo",
+        "Aquaman",
+        "Sharknado",
+        "A Pequena Sereia"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    }
+  ]
+}
