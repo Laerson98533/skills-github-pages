@@ -1,54 +1,55 @@
-<header>
+# Aventura no Castelo Sombrio
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+"Aventura no Castelo Sombrio" é um jogo de exploração textual com interface híbrida:
+no console você lê as descrições, digita comandos e acompanha os eventos, enquanto na
+interface Swing há botões que disparam as principais ações e uma área de texto que espelha
+as mensagens do terminal.
 
-# GitHub Pages
+## Recursos principais
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+- **Narrativa ramificada**: cada sala do castelo possui descrições e conexões exclusivas
+  (salão, biblioteca, masmorra, arsenal, torre e portão selado).
+- **Sistema de combate por turnos**: enfrente goblins, esqueletos e magos alternando ataques
+  com resultados levemente aleatórios.
+- **Inventário completo**: colete chaves, armas e poções, consulte o inventário e utilize itens
+  pelo console ou pela interface gráfica.
+- **Salvamento rápido**: grave um resumo do progresso em `savegame.txt` a qualquer momento.
+- **Interface Swing opcional**: acompanhe a aventura visualmente e utilize botões para explorar,
+  lutar, coletar itens, salvar e muito mais.
 
-</header>
+## Estrutura do código
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+O código-fonte está organizado no diretório `src/aventura` e utiliza classes orientadas a
+objetos para representar cada conceito central:
 
-## Step 1: Enable GitHub Pages
+- `Main`: ponto de entrada, prepara o jogador, inicia a interface Swing e o laço do jogo.
+- `Game`: controla o fluxo da aventura, os menus, o combate e a integração console/Swing.
+- `Player`: armazena estado do herói (vida, inventário e bônus de ataque).
+- `Enemy`: modela inimigos com vida e dano base.
+- `Item`: descreve armas, poções, chaves e tesouros coletáveis.
+- `Room`: representa cada sala, suas conexões, itens e inimigos.
+- `GameUI`: constrói a janela Swing com botões e área de log sincronizada com o console.
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+## Como compilar
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+No diretório raiz do projeto execute:
 
-### :keyboard: Activity: Enable GitHub Pages
+```bash
+javac -d out $(find src -name "*.java")
+```
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+O comando acima compila todas as classes para o diretório `out`.
 
-<footer>
+## Como executar
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Após a compilação, inicie o jogo com:
 
----
+```bash
+java -cp out aventura.Main
+```
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+O terminal solicitará o nome do herói e apresentará o salão inicial. A janela Swing será
+aberta automaticamente durante a execução.
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+> Dica: mantenha o console aberto para acompanhar as descrições completas e, se preferir,
+> utilize os botões da janela para agilizar as escolhas.
